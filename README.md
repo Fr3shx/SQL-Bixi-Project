@@ -7,3 +7,4 @@ The data is a cleaned up version of data downloaded from the open data portal at
 
 Run the SQL file located [here](https://drive.google.com/file/d/1YcyumgSrwX4ezVLNoAZBzN1XTgKqrCZZ/view).
 
+<img width="604" alt="image" src="https://user-images.githubusercontent.com/100140174/217348187-33b2cfc0-04e1-4f8e-acd1-f7818630896c.png">
